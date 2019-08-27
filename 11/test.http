@@ -1,0 +1,14 @@
+https://www.v2ex.com/api/nodes/show.json?name=python
+
+
+
+https://www.v2ex.com/api/nodes/show.json
+
+Method: GET
+Authentication: None
+接受参数：
+
+name: 节点名（V2EX 的节点名全是半角英文或者数字）
+例如：
+
+https://www.v2ex.com/api/nodes/show.json?name=python
